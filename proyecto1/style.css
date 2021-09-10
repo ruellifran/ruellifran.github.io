@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap");
 
+main {
+  width: 350px;
+}
+
 body {
   font-family: kumbh sans, sans-serif;
   font-size: 18px;
@@ -28,6 +32,12 @@ body {
   color: hsl(0, 0%, 59%);
 }
 
+.stats {
+  background-color: grey;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 350px;
+}
 .metricas {
   font-size: smaller;
   font-weight: 100;
