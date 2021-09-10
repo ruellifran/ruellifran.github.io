@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap");
+
+body {
+  font-family: kumbh sans, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.foto-victor {
+  border-radius: 50%;
+  border-width: 10px;
+  border-color: white;
+}
+
+.pattern-top {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-width: 2px;
+}
+
+.años {
+  font-weight: 400;
+  color: hsl(0, 0%, 59%);
+}
+
+.ciudad {
+  font-weight: 400;
+  color: hsl(0, 0%, 59%);
+}
+
+.metricas {
+  font-size: smaller;
+  font-weight: 100;
+  color: hsl(0, 0%, 59%);
+}
